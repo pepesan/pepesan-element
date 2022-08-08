@@ -3,9 +3,13 @@
 /test/
 custom-elements.json
 # top level source
-my-element.js
-my-element.js.map
-my-element.d.ts
-my-element.d.ts.map
+pepesan-element.js
+pepesan-element.js.map
+pepesan-element.d.ts
+pepesan-element.d.ts.map
 # only generated for size check
-my-element.bundled.js
+pepesan-element.bundled.js
+package-lock.json
+.vscode
+.idea
+./build/test
