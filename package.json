@@ -1,7 +1,7 @@
 {
   "name": "pepesan_element",
-  "private": true,
-  "version": "1.0.4",
+  "private": false,
+  "version": "1.0.0-alpha1",
   "description": "A simple web component",
   "main": "./build/pepesan-element.js",
   "module": "./build/pepesan-element.js",

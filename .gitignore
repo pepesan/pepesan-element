@@ -12,4 +12,4 @@ pepesan-element.bundled.js
 package-lock.json
 .vscode
 .idea
-./build/test
+build/test/pepesan-element_test*
